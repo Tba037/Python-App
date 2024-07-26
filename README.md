@@ -1,4 +1,4 @@
-File ini adalah coding untuk project Capstone 1 via Python.
+File ini adalah coding untuk via Python dengan menggunakan fungsi IF, ELIF, dan ELSE.
 
 Codingan ini akan menjalankan sebuah aplikasi dengan topik Data Karyawan dengan 4 fitur utama:
 1. Fitur Read Data : Pada fitur ini, aplikasi akan memanggil semua data yg terdaftar atau memangil data spesifik sesuai perminataan user.
